@@ -35,7 +35,6 @@ This project is beginner-friendly and demonstrates basic GUI development, Unicod
 
 ### ▶️ Run the App
 
-`` bash
 - git clone https://github.com/pyrixix/dice_game.git
 
 
