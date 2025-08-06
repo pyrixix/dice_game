@@ -85,7 +85,6 @@ This project is licensed under the MIT License.
 Feel free to fork and build on it, just give credit.
 
 
-###🌟 Author
+### 🌟 Author
 Created with care by @pyrixix
-cd dice_game
-python dice_game.py
+
